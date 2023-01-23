@@ -128,7 +128,6 @@ Comms.ChatCommands = {
         description = "Send a highly-encrypted panic message to fellow High Command, Shock, and 5th Fleet.",
         canUse = {["High Command"] = true},
         canSee = {
-			["Citizens"] = true,
             ["High Command"] = true, 
             ["Shock"] = true, 
             ["5thlead"] = true, 
