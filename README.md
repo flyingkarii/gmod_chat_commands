@@ -1,12 +1,14 @@
 # Kari's Chat Channels and Commands
 
+This addon is a simple way to add custom chat commands and recipient groups with several features. Includes full customization and free ability to change everything you see fit.
+
 ## Features
 
 Easy to use chat channel commands. Able to add job categories as well as job commands to chat channel recipients. 
 (Note that all of these commands are able to be changed in the config, but right now are made for an SWRP I used to develop for.)
 Chat commands that do not accept blank input, all made through a config.
-* /act [message] - Do an action globally. 
-* /lact [message] - Do an action within the configured range.
+* /rp [message] - Do an action globally. 
+* /lrp [message] - Do an action within the configured range.
 * /comms [message] - A global communications channel that all players can see. This is able to be changed, just like any other chat command.
 * /roll - Roll a number from 1 to 100.
 * /medic [message] - Request a medic
